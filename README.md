@@ -1,6 +1,6 @@
 ## Eco-Loop Store
 
-![image](./public/logo512.png)
+![image](./src/assets/logo.svg)
 
 ## Tech Stack
 
