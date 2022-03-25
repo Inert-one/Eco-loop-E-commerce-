@@ -1,7 +1,7 @@
 ## Eco-Loop Store
 
 <p align="center">
-  <img src="./src/assets/logo.svg" width="200" title="hover text">
+  <img src="./src/assets/logo.svg" width="200" title="Eco-loop">
 </p>
 
 ## Tech Stack
