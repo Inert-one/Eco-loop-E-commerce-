@@ -24,8 +24,13 @@ Open [http://localhost:3000](http://localhost:3000) with your browser to see the
 
 ## Deployment
 
-NOTE: The app is automatically deployed by vercel when code is pushed to the remote repo.
+### Demo Link: [Heroku](https://eco-loop.herokuapp.com/) | [Netlify](https://eco-loop.netlify.app/)
 
+
+NOTE: The app is automatically deployed by heroku & Netlify when code is pushed to the remote repo.
+
+&nbsp;  
+[![Netlify Status](https://api.netlify.com/api/v1/badges/17216443-5eb2-417c-a8d5-034ecbce134b/deploy-status)](https://app.netlify.com/sites/eco-loop/deploys)
 ## Author 
 
 - [Shubham Dubey](https://www.shubhamdubey.tech/)
