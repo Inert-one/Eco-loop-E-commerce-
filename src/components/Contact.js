@@ -45,7 +45,8 @@ const Wrapper = styled.section`
 
   .form-input,
   .submit-btn {
-    font-size: 1rem;
+    font-size: 0.8rem;
+    max-width: 60vw;
     padding: 0.5rem 1rem;
     border: 2px solid var(--clr-black);
   }
@@ -70,6 +71,8 @@ const Wrapper = styled.section`
     cursor: pointer;
     transition: var(--transition);
     color: var(--clr-black);
+    max-width: 30vw;
+    // display:none;
   }
   .submit-btn:hover {
     color: var(--clr-white);
